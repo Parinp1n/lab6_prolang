@@ -1,0 +1,15 @@
+/Users/pinpin/Work/3t1/prolang/lab6/bin/Debug/net7.0/lab6
+/Users/pinpin/Work/3t1/prolang/lab6/bin/Debug/net7.0/lab6.deps.json
+/Users/pinpin/Work/3t1/prolang/lab6/bin/Debug/net7.0/lab6.runtimeconfig.json
+/Users/pinpin/Work/3t1/prolang/lab6/bin/Debug/net7.0/lab6.dll
+/Users/pinpin/Work/3t1/prolang/lab6/bin/Debug/net7.0/lab6.pdb
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.csproj.AssemblyReference.cache
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.AssemblyInfoInputs.cache
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.AssemblyInfo.cs
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.csproj.CoreCompileInputs.cache
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.dll
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/refint/lab6.dll
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.pdb
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/lab6.genruntimeconfig.cache
+/Users/pinpin/Work/3t1/prolang/lab6/obj/Debug/net7.0/ref/lab6.dll
